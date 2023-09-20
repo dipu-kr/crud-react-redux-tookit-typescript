@@ -33,6 +33,9 @@ const Create = () => {
           setEmail("");
           setAddress("");
           setPhone("");
+          setTimeout(() => {
+            navigate("/");
+          }, 1000);
         }
       } catch (error: any) {
         toast.error("An error occurred: " + error.message);

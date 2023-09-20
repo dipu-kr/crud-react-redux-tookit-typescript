@@ -1,67 +1,25 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Virat Kohli",
-      "email": "virat@gmail.com",
-      "phone": "1234567890",
-      "address": "delhi"
+      "name": "example",
+      "email": "example@gmail.com",
+      "phone": "129986877676",
+      "address": "example town",
+      "id": 2
     },
     {
-      "id": 2,
-      "name": "Rohit Sharma",
-      "email": "rohit@123gmail.com",
-      "phone": "1234567890",
-      "address": "mumbai"
+      "name": "example2",
+      "email": "example2@gmail.com",
+      "phone": "09937483647",
+      "address": "example town2",
+      "id": 3
     },
     {
-      "id": 3,
-      "name": "KL Rahul",
-      "email": "klrahul@gmail.com",
-      "phone": "1234567890",
-      "address": "chennai"
-    },
-    {
-      "name": "MS Dhoni",
-      "email": "dhoni@12345.com",
-      "phone": "223322556676",
-      "address": "jharkhand",
+      "name": "example33",
+      "email": "example3@gmail.com",
+      "phone": "948343787630",
+      "address": "example town3",
       "id": 4
-    },
-    {
-      "name": "John Carlo",
-      "email": "john@100.com",
-      "phone": "1234567890",
-      "address": "America",
-      "id": 5
-    },
-    {
-      "name": "Dipu Kumar",
-      "email": "dipu@900.com",
-      "phone": "1234567890",
-      "address": "Guwahati",
-      "id": 6
-    },
-    {
-      "name": "Dipu1 Kumar",
-      "email": "dipu1@900.com",
-      "phone": "1234567890",
-      "address": "Guwahati",
-      "id": 7
-    },
-    {
-      "name": "Dipu2 Kumar",
-      "email": "dipu2@900.com",
-      "phone": "1234567890",
-      "address": "Guwahati",
-      "id": 8
-    },
-    {
-      "name": "Xyz",
-      "email": "xyz@200.com",
-      "phone": "123456",
-      "address": "Mumbai",
-      "id": 9
     }
   ]
 }
